@@ -27,13 +27,12 @@ Interno is a web application that offers a unique and user-friendly interface. T
 - **Tailwind CSS**: For styling the website with a utility-first approach.
 
   ## Screenshot
-![Capture01](https://github.com/user-attachments/assets/1fa8baf1-83d5-42d0-bddc-7b8e428b44b5)
-![Capture02](https://github.com/user-attachments/assets/537c0eaf-7eb8-4a2d-89c2-6e686c0d5e85)
-![Capture03](https://github.com/user-attachments/assets/59744540-b5ab-483f-bf81-633b5b692c46)
-![Capture04](https://github.com/user-attachments/assets/d5bb9bc6-caba-435a-b3a0-5ceb4aab012e)
-![Capture05](https://github.com/user-attachments/assets/11bbd87d-3aa0-4ac7-9cae-3872d1f3af82)
-![Capture06](https://github.com/user-attachments/assets/30b81dd0-9e4d-4b02-8717-325cd9c0bac5)
-![Capture07](https://github.com/user-attachments/assets/ca575769-d49c-45d0-8ac9-5cf2d75d5210)
+![new01](https://github.com/user-attachments/assets/ebd770a4-19ba-4b45-a877-3d4973893d17)
+![new02](https://github.com/user-attachments/assets/6d5ccbaa-4ecb-44e5-afde-b44a86afb6ef)
+![new03](https://github.com/user-attachments/assets/917568fa-9c70-483a-9fd8-144be7351eb4)
+![new04](https://github.com/user-attachments/assets/382ace08-ff9b-49c2-851c-175fdb82c818)
+![new05](https://github.com/user-attachments/assets/e77774a2-51aa-437a-ab53-48636542ebe9)
+
 
 
 
